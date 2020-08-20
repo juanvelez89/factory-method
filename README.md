@@ -26,5 +26,5 @@ Declara el factory method el cual retorna un objeto de tipo product.
 Sobre escribe el factory method y retorna una instancia de un concreteproduct.
 
 ### Client
-El cliente crea el objeto director y lo configura con el objeto builder deseado.
+El cliente crea el objeto creator y lo configura con el objeto product deseado.
 
