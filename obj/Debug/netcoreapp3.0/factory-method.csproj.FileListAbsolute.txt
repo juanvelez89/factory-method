@@ -1,0 +1,11 @@
+D:\TestConcepts\factory-method\bin\Debug\netcoreapp3.0\factory-method.exe
+D:\TestConcepts\factory-method\bin\Debug\netcoreapp3.0\factory-method.deps.json
+D:\TestConcepts\factory-method\bin\Debug\netcoreapp3.0\factory-method.runtimeconfig.json
+D:\TestConcepts\factory-method\bin\Debug\netcoreapp3.0\factory-method.runtimeconfig.dev.json
+D:\TestConcepts\factory-method\bin\Debug\netcoreapp3.0\factory-method.dll
+D:\TestConcepts\factory-method\bin\Debug\netcoreapp3.0\factory-method.pdb
+D:\TestConcepts\factory-method\obj\Debug\netcoreapp3.0\factory-method.csprojAssemblyReference.cache
+D:\TestConcepts\factory-method\obj\Debug\netcoreapp3.0\factory-method.AssemblyInfoInputs.cache
+D:\TestConcepts\factory-method\obj\Debug\netcoreapp3.0\factory-method.AssemblyInfo.cs
+D:\TestConcepts\factory-method\obj\Debug\netcoreapp3.0\factory-method.dll
+D:\TestConcepts\factory-method\obj\Debug\netcoreapp3.0\factory-method.pdb
