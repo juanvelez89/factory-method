@@ -9,7 +9,7 @@ namespace factory_method
         static void Main(string[] args)
         {
             IBook book = null;
-            Console.WriteLine("Que tipo de libro desea: ");
+            Console.WriteLine("what type of book you want: ");
             Console.WriteLine("1.Magazine");
             Console.WriteLine("2.Comic");
             var type = int.Parse(Console.ReadLine());
@@ -27,9 +27,9 @@ namespace factory_method
                     break;
             }
             if (book != null)
-                Console.WriteLine("su tipo de libro elegido es: " + book.Type);
+                Console.WriteLine("you type of book is: " + book.Type);
             else
-                Console.WriteLine("algo ha ocurrido...");
+                Console.WriteLine("something is wrong...");
 
         }
     }
